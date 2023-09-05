@@ -62,7 +62,7 @@ fun MyDialog(
                 }
             },
             title = { Text(text = "Dialogo") },
-            text = { Text(text = "Bienvenido") }
+            text = { Text(text = "Bienvenido, esto es un dialogo") }
         )
     }
 }
